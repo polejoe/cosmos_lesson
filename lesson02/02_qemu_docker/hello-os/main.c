@@ -15,7 +15,7 @@ void main()
         unsigned long long j = 20ULL * G1;
         while(j--);
         printf("Hello OS! pong ");
-        unsigned long long k = 100ULL * G1;
+        unsigned long long k = 200ULL * G1;
         while(k--);
     }
     
